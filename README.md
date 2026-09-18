@@ -21,6 +21,7 @@
 | [0007-reverse-integer](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
@@ -46,9 +47,15 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## String
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->

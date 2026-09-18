@@ -10,6 +10,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0007-reverse-integer](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -40,4 +43,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

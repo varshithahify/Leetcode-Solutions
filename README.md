@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0204-count-primes](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |

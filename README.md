@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0204-count-primes) |
@@ -70,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |

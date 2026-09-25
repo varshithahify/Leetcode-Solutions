@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/varshithahify/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,4 +87,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/varshithahify/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Counting
+|  |
+| ------- |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/varshithahify/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 <!---LeetCode Topics End-->

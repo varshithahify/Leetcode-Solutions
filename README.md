@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/varshithahify/Leetcode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/varshithahify/Leetcode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Divide and Conquer
 |  |
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,4 +99,8 @@
 |  |
 | ------- |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/varshithahify/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

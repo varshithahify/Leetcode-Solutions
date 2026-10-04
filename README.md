@@ -11,6 +11,7 @@
 | [0001-two-sum](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -79,10 +81,12 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
@@ -100,9 +104,14 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/varshithahify/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

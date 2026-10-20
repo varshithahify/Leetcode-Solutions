@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
@@ -91,6 +92,7 @@
 | [0018-4sum](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |

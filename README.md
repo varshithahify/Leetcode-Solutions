@@ -4,6 +4,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0868-binary-gap) |
 ## Array
 |  |
@@ -28,6 +29,7 @@
 | [0229-majority-element-ii](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshithahify/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/varshithahify/Leetcode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -39,6 +41,7 @@
 | [0169-majority-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

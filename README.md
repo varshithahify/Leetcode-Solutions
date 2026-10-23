@@ -29,6 +29,7 @@
 | [0229-majority-element-ii](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshithahify/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -107,6 +108,7 @@
 | [0053-maximum-subarray](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -170,4 +173,24 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/varshithahify/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
